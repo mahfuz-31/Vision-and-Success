@@ -1,0 +1,81 @@
+\documentclass[12pt]{book}
+% \usepackage[T1]{fontenc}
+\usepackage{arabtex}
+\usepackage{utf8}
+% \usepackage{amssymb}
+\usepackage{enumitem}
+% \setlist[enumerate]{resume}
+
+
+\setcode{utf8}
+
+\usepackage{geometry}
+\usepackage{tgbonum}
+
+% Define custom page size and text area
+\geometry{
+    paperwidth=6in, % Width of the paper
+    paperheight=9in, % Height of the paper
+    % total={145mm,250mm}
+    % left=1in, % Left margin
+    % right=1in, % Right margin
+    top=1in, % Top margin
+    bottom=1in, % Bottom margin
+    % You can also specify text area dimensions explicitly
+    % textwidth=4in,
+    % textheight=7in,
+    % These are optional, if not specified, they will be calculated based on the margins and paper size
+}
+
+\usepackage{baskervald}
+
+\newcommand\textvtt[1]{{\normalfont\fontfamily{cmvtt}\selectfont #1}}
+
+% Define page style for chapters
+\usepackage{titlesec}
+\usepackage{titleps}
+\newpagestyle{chapterpagestyle}{
+    \sethead{}{\small\textit{\chaptertitle}}{} % Display chapter name in header
+    \setfoot{}{\thepage}{} % Display page number in footer
+}
+
+% Load the package for adjusting line spacing
+\usepackage{setspace}
+% Set line spacing to 1.5 times
+
+
+\begin{document}
+\begin{titlepage}
+    \begin{center}
+        \vspace*{5cm}
+        {\Huge Vision and Success}\\
+        \vspace{1cm}
+        Compiled by Mahfuz
+    \end{center}
+    
+\end{titlepage}
+
+\tableofcontents
+
+\pagestyle{chapterpagestyle} % Apply chapter page style to this chapter
+
+{\setstretch{1.4}
+\input{Chapters/Introduction.tex}
+\cleardoublepage
+
+\input{Chapters/prophetsVision.tex}
+\cleardoublepage
+
+\input{Chapters/islamAndBeduins.tex}
+\cleardoublepage
+
+\input{Chapters/riseOfIslam.tex}
+\cleardoublepage
+
+\input{Chapters/ultimateSuccess.tex}
+\cleardoublepage
+
+\input{Chapters/theSahabaKnew.tex}
+\cleardoublepage
+}
+\end{document}

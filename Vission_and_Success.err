@@ -1,0 +1,1 @@
+\gdef\next #1#2#3#4{\a@puttt \GenericError  \arab@tail }
