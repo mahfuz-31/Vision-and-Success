@@ -676,6 +676,10 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/arkandis/baskervald/ybvbi8t.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/arkandis/baskervald/ybvbi8t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/arkandis/baskervald/ybvbi8r.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/arkandis/baskervald/ybvbi8s.tfm
+INPUT ./Chapters/helpOfAllah.tex
+INPUT Chapters/helpOfAllah.tex
+INPUT ./Chapters/helpOfAllah.tex
+INPUT Chapters/helpOfAllah.tex
 INPUT Vission_and_Success.aux
 INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/baskervald/supp-ybv.enc
 INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc

@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1721964890 "/media/mahfuz/resources/Documents/My_Book/Vision and Success/Vission_and_Success.tex" "Vission_and_Success.pdf" "Vission_and_Success" 1721964892
+["pdflatex"] 1721996968 "/media/mahfuz/resources/Documents/My_Book/Vision and Success/Vission_and_Success.tex" "Vission_and_Success.pdf" "Vission_and_Success" 1721996970
   "/etc/texmf/web2c/texmf.cnf" 1696528057 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/media/mahfuz/resources/Documents/My_Book/Vision and Success/Vission_and_Success.tex" 1721397003 1813 8ede4e018eded303d7321fea7c72ae20 ""
+  "/media/mahfuz/resources/Documents/My_Book/Vision and Success/Vission_and_Success.tex" 1721996832 1864 77ff0cc348826cb47edd9b14c536f212 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/baskervald/supp-ybv.enc" 1279324236 3433 06edd2f5d570b2fb837f6ab1f32695f7 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -105,14 +105,15 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1704093434 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1712865168 2800189 73980770193089896c306897004998f0 ""
   "Chapters/Introduction.tex" 1712221806 1645 e7b1a4b24a51820936d259d972a2a40f ""
+  "Chapters/helpOfAllah.tex" 1721996967 124 a2126f01549e8e9daa2748668c6b1e41 ""
   "Chapters/islamAndBeduins.tex" 1712515889 3705 3c603e1b8265b5816e808706bfd61fca ""
   "Chapters/prophetsVision.tex" 1721725975 14446 223b690cf47a7e6bcdeab15f1dba0db8 ""
   "Chapters/riseOfIslam.tex" 1712516025 22312 c5ee72ae4150750ebb10afdc5f7010bf ""
   "Chapters/theSahabaKnew.tex" 1721964890 8331 204d1724069aa984ef906c9bcc9973f2 ""
   "Chapters/ultimateSuccess.tex" 1721729820 8317 8a1d25e08713704e5b78ceee164a9880 ""
-  "Vission_and_Success.aux" 1721964892 1233 63170900219c5a642b026d40ea22f277 "pdflatex"
-  "Vission_and_Success.tex" 1721397003 1813 8ede4e018eded303d7321fea7c72ae20 ""
-  "Vission_and_Success.toc" 1721964892 461 9e57946c67c8becc66e3e9811e02afb6 "pdflatex"
+  "Vission_and_Success.aux" 1721996969 1423 8583214365b014cde835b1ad88e35a24 "pdflatex"
+  "Vission_and_Success.tex" 1721996832 1864 77ff0cc348826cb47edd9b14c536f212 ""
+  "Vission_and_Success.toc" 1721996969 534 47057469bcf9c266576067e1488ac31f "pdflatex"
   (generated)
   "Vission_and_Success.aux"
   "Vission_and_Success.log"
