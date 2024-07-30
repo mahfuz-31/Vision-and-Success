@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.12)  26 JUL 2024 18:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.12)  30 JUL 2024 08:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -169,31 +169,65 @@ Package: titlesec 2021/07/05 v2.14 Sectioning titles
 Package: titleps 2021/07/05 v2.14 Page styles
 ) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
+) (/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.sty
+File: lettrine.sty 2020-03-14 v2.23 (Daniel Flipo)
+ (/usr/share/texlive/texmf-dist/tex/generic/minifp/minifp.sty
+Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack-based programing language.
+\MFP@loopctr=\count300
 )
-LaTeX Font Info:    Trying to load font information for T1+ybv on input line 47.
+\c@DefaultLines=\count301
+\c@DefaultDepth=\count302
+\DefaultFindent=\dimen175
+\DefaultNindent=\dimen176
+\DefaultSlope=\dimen177
+\DiscardVskip=\dimen178
+\L@lbox=\box67
+\L@tbox=\box68
+\c@L@lines=\count303
+\c@L@depth=\count304
+\L@Pindent=\dimen179
+\L@Findent=\dimen180
+\L@Nindent=\dimen181
+\L@lraise=\dimen182
+\L@first=\dimen183
+\L@next=\dimen184
+\L@slope=\dimen185
+\L@height=\dimen186
+\L@novskip=\dimen187
+\L@target@ht=\dimen188
+\L@target@dp=\dimen189
+\L@target@tht=\dimen190
+\LettrineWidth=\dimen191
+\LettrineHeight=\dimen192
+\LettrineDepth=\dimen193
+\Llist@everypar=\toks43
+
+Loading lettrine.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.cfg))
+LaTeX Font Info:    Trying to load font information for T1+ybv on input line 49.
  (/usr/share/texlive/texmf-dist/tex/latex/baskervald/t1ybv.fd
 File: t1ybv.fd 2010/07/13 Fontinst v1.933 font definitions for T1/ybv.
 ) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count300
-\l__pdf_internal_box=\box67
+\l__color_backend_stack_int=\count305
+\l__pdf_internal_box=\box69
 ) (./Vission_and_Success.aux)
 \openout1 = `Vission_and_Success.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -230,15 +264,15 @@ LaTeX Font Info:    ... okay on input line 47.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 (/usr/share/texlive/texmf-dist/tex/latex/arabtex/apatch.sty
-\a@lines=\count301
-\a@Lwidth=\dimen175
-\a@displaywidth=\dimen176
+\a@lines=\count306
+\a@Lwidth=\dimen194
+\a@displaywidth=\dimen195
  (/usr/share/texlive/texmf-dist/tex/latex/arabtex/alocal.sty (ArabTeX) 3.11 local stub, 26.02.2006) (ArabTeX) version 3.11s (02.07.2006): second phase of patching) [1
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/ybv/m/sl' in size <12> not available
-(Font)              Font shape `T1/ybv/m/it' tried instead on input line 58.
+(Font)              Font shape `T1/ybv/m/it' tried instead on input line 60.
  [2
 
 ] (./Vission_and_Success.toc)
@@ -379,20 +413,25 @@ Underfull \vbox (badness 4556) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [46]
-Overfull \hbox (2.78922pt too wide) in paragraph at lines 25--25
-\T1/cmvtt/m/n/12 Even-tu-ally one day these blessed in-di-vid-u-als (the \T1/cmvtt/m/it/12 ansaar\T1/cmvtt/m/n/12 )
- []
-
-
 Underfull \vbox (badness 3735) has occurred while \output is active []
 
  [47] [48] [49] [50]) [51] [52
 
 ] (./Chapters/helpOfAllah.tex
 Chapter 7.
-) [53
+[53
 
-] [54
+]
+Overfull \hbox (2.16724pt too wide) in paragraph at lines 27--41
+\T1/ybv/m/n/12 It was nar-rated on the au-thor-ity of Umar (may Al-lah be pleased
+ []
+
+
+Overfull \hbox (1.27898pt too wide) in paragraph at lines 27--41
+\T1/ybv/b/n/12 peared be-fore us a man dressed in ex-tremely white clothes
+ []
+
+[54]) [55] [56
 
 ] (./Vission_and_Success.aux)
 
@@ -447,6 +486,9 @@ svn-prov.sty    2010/04/24 v3.1862 Package Date/Version from SVN Keywords
 titlesec.sty    2021/07/05 v2.14 Sectioning titles
  titleps.sty    2021/07/05 v2.14 Page styles
 setspace.sty    2011/12/19 v6.7a set line spacing
+lettrine.sty    2020-03-14 v2.23 (Daniel Flipo)
+  minifp.sty    2013/12/30 v0.96. Macros for real number operations and a stack-based programing language.
+lettrine.cfg
    t1ybv.fd    2010/07/13 Fontinst v1.933 font definitions for T1/ybv.
 l3backend-pdftex.def    2022-01-12 L3 backend support: PDF output (pdfTeX)
   apatch.sty    2006/07/02  3.11s last minute patches 
@@ -467,21 +509,21 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  )
 (\end occurred inside a group at level 1)
 
-### semi simple group (level 1) entered at line 47 (\begingroup)
+### semi simple group (level 1) entered at line 49 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 6068 strings out of 478287
- 87302 string characters out of 5849289
- 437991 words of memory out of 5000000
- 24093 multiletter control sequences out of 15000+600000
+ 6484 strings out of 478287
+ 92730 string characters out of 5849289
+ 443480 words of memory out of 5000000
+ 24499 multiletter control sequences out of 15000+600000
  586337 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,8n,62p,3597b,1137s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/baskervald/supp-ybv.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfvi1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfvt1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/arabtex/xnsh14.pfb></usr/share/texlive/texmf-dist/fonts/type1/arkandis/baskervald/ybvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/arkandis/baskervald/ybvbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/arkandis/baskervald/ybvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/arkandis/baskervald/ybvri8a.pfb>
-Output written on Vission_and_Success.pdf (54 pages, 255370 bytes).
+Output written on Vission_and_Success.pdf (56 pages, 263623 bytes).
 PDF statistics:
- 223 PDF objects out of 1000 (max. 8388607)
- 149 compressed objects within 2 object streams
+ 230 PDF objects out of 1000 (max. 8388607)
+ 154 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

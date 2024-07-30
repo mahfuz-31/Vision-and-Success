@@ -3,5 +3,5 @@
 \contentsline {chapter}{\numberline {3}Islam Changed the Visions of the Bedouins}{17}{}%
 \contentsline {chapter}{\numberline {4}The Miraculous Rise of Islam}{21}{}%
 \contentsline {chapter}{\numberline {5}The Ultimate Success}{37}{}%
-\contentsline {chapter}{\numberline {6}The \textit {Sahaaba} (companions) Knew}{45}{}%
-\contentsline {chapter}{\numberline {7}The devine help of Allaah}{53}{}%
+\contentsline {chapter}{\numberline {6}The \textit {Sah\=aba} (companions) Knew}{45}{}%
+\contentsline {chapter}{\numberline {7}The divine help of All\=ah}{53}{}%
