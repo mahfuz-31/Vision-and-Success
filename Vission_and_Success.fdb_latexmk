@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1722443218 "/media/mahfuz/resources/Documents/My_Book/Vision and Success/Vission_and_Success.tex" "Vission_and_Success.pdf" "Vission_and_Success" 1722443220
+["pdflatex"] 1722591364 "/media/mahfuz/resources/Documents/My_Book/Vision and Success/Vission_and_Success.tex" "Vission_and_Success.pdf" "Vission_and_Success" 1722591365
   "/etc/texmf/web2c/texmf.cnf" 1696528057 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/media/mahfuz/resources/Documents/My_Book/Vision and Success/Vission_and_Success.tex" 1721997518 1920 3286a8cbbfcca935222b37dae857c7b7 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -108,15 +108,15 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1704093434 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1712865168 2800189 73980770193089896c306897004998f0 ""
   "Chapters/Introduction.tex" 1712221806 1645 e7b1a4b24a51820936d259d972a2a40f ""
-  "Chapters/helpOfAllah.tex" 1722443217 8044 ef1ebba2c7da3ee8ea7b22dea366b813 ""
+  "Chapters/helpOfAllah.tex" 1722591364 11056 7550f0dc75016a4bd473fd8f3d4ad282 ""
   "Chapters/islamAndBeduins.tex" 1712515889 3705 3c603e1b8265b5816e808706bfd61fca ""
   "Chapters/prophetsVision.tex" 1721725975 14446 223b690cf47a7e6bcdeab15f1dba0db8 ""
   "Chapters/riseOfIslam.tex" 1712516025 22312 c5ee72ae4150750ebb10afdc5f7010bf ""
   "Chapters/theSahabaKnew.tex" 1722303998 8365 8bede9833d1c0ae354a898d90713dce8 ""
   "Chapters/ultimateSuccess.tex" 1721729820 8317 8a1d25e08713704e5b78ceee164a9880 ""
-  "Vission_and_Success.aux" 1722443220 1425 eb4fb0aee1c2113e11dce558af936539 "pdflatex"
+  "Vission_and_Success.aux" 1722591365 1425 fcff40ef4f903789940980dad237a7c2 "pdflatex"
   "Vission_and_Success.tex" 1721997518 1920 3286a8cbbfcca935222b37dae857c7b7 ""
-  "Vission_and_Success.toc" 1722443220 536 249bd88058ad8c41eddc425f51de0ac1 "pdflatex"
+  "Vission_and_Success.toc" 1722591365 536 249bd88058ad8c41eddc425f51de0ac1 "pdflatex"
   (generated)
   "Vission_and_Success.aux"
   "Vission_and_Success.log"
