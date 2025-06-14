@@ -1,217 +1,367 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.12)  13 AUG 2024 08:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.6.13)  14 JUN 2025 11:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/media/mahfuz/resources/Documents/My_Book/Vision and Success/Vission_and_Success.tex"
-(/media/mahfuz/resources/Documents/My_Book/Vision and Success/Vission_and_Success.tex
-LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-01-21> (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
-Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
-File: bk12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+**e:/Books/My_Book/Vision-and-Success/Vission_and_Success.tex
+(e:/Books/My_Book/Vision-and-Success/Vission_and_Success.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-05-26>
+(c:/texlive/2025/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2025/01/22 v1.4n Standard LaTeX document class
+(c:/texlive/2025/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count185
-\c@chapter=\count186
-\c@section=\count187
-\c@subsection=\count188
-\c@subsubsection=\count189
-\c@paragraph=\count190
-\c@subparagraph=\count191
-\c@figure=\count192
-\c@table=\count193
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
-\bibindent=\dimen138
-) (/usr/share/texlive/texmf-dist/tex/latex/arabtex/arabtex.sty (/usr/share/texlive/texmf-dist/tex/latex/arabtex/aconfig.sty
+\c@part=\count275
+\c@chapter=\count276
+\c@section=\count277
+\c@subsection=\count278
+\c@subsubsection=\count279
+\c@paragraph=\count280
+\c@subparagraph=\count281
+\c@figure=\count282
+\c@table=\count283
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+) (c:/texlive/2025/texmf-dist/tex/latex/arabtex/arabtex.sty (c:/texlive/2025/texmf-dist/tex/latex/arabtex/aconfig.sty
 LaTeX2e detected 
-\a@moduledate=\count194
-\a@maindate=\count195
+\a@moduledate=\count284
+\a@maindate=\count285
 )
 Package: arabtex 2003/08/22  3.11 ArabTeX main module
- (/usr/share/texlive/texmf-dist/tex/latex/arabtex/arabaux.sty
+ (c:/texlive/2025/texmf-dist/tex/latex/arabtex/arabaux.sty
 Package: arabaux 2003/05/21  3.11 auxiliary macros for ArabTeX
-) (/usr/share/texlive/texmf-dist/tex/latex/arabtex/acmd.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/arabtex/acmd.sty
 Package: acmd 2003/08/20  3.11 Arabic command processing 
-) (/usr/share/texlive/texmf-dist/tex/latex/arabtex/afonts.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/arabtex/afonts.sty
 Package: afonts 1995/11/16  3.04 define Naskh font 
- (/usr/share/texlive/texmf-dist/tex/latex/arabtex/afonts2.sty
+ (c:/texlive/2025/texmf-dist/tex/latex/arabtex/afonts2.sty
 Package: afonts2 1998/10/19  3.10 define Naskh fonts for LaTeX2e
-)) (/usr/share/texlive/texmf-dist/tex/latex/arabtex/ascan.sty
+)) (c:/texlive/2025/texmf-dist/tex/latex/arabtex/ascan.sty
 Package: ascan 2003/08/22  3.11 standard ZDMG input encoding 
- (ArabTeX) scanner for code `arabtex' installed. (ArabTeX) input encoding set to ArabTeX standard conventions.) (/usr/share/texlive/texmf-dist/tex/latex/arabtex/aparse.sty
+ (ArabTeX) scanner for code `arabtex' installed. (ArabTeX) input encoding set to ArabTeX standard conventions.) (c:/texlive/2025/texmf-dist/tex/latex/arabtex/aparse.sty
 Package: aparse 2003/05/26  3.11 get syllables 
-) (/usr/share/texlive/texmf-dist/tex/latex/arabtex/awrite.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/arabtex/awrite.sty
 Package: awrite 2003/06/05  3.11 build output word 
- (/usr/share/texlive/texmf-dist/tex/latex/arabtex/xarbsymb.sty
+ (c:/texlive/2025/texmf-dist/tex/latex/arabtex/xarbsymb.sty
 Package: xarbsymb 1998/07/15  3.07 symbolic output encoding 
-) (/usr/share/texlive/texmf-dist/tex/latex/arabtex/arabskel.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/arabtex/arabskel.sty
 Package: arabskel 2000/06/04  3.10 character skeleton definitions 
-) (/usr/share/texlive/texmf-dist/tex/latex/arabtex/xarbskel.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/arabtex/xarbskel.sty
 Package: xarbskel 1999/07/17  3.09 character skeleton definitions 
-) (/usr/share/texlive/texmf-dist/tex/latex/arabtex/aboxes.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/arabtex/aboxes.sty
 Package: aboxes 2003/05/28  3.11 build output boxes
-) (/usr/share/texlive/texmf-dist/tex/latex/arabtex/arabtoks.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/arabtex/arabtoks.sty
 Package: arabtoks 1999/07/17  3.09 ArabTeX CS token definitions 
-) (/usr/share/texlive/texmf-dist/tex/latex/arabtex/arabchrs.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/arabtex/arabchrs.sty
 Package: arabchrs 1998/07/11  3.07 letter token definitions 
-)) (/usr/share/texlive/texmf-dist/tex/latex/arabtex/aligs.sty
+)) (c:/texlive/2025/texmf-dist/tex/latex/arabtex/aligs.sty
 Package: aligs 2003/05/26  3.11 compute ligatures
-) (/usr/share/texlive/texmf-dist/tex/latex/arabtex/aoutput.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/arabtex/aoutput.sty
 Package: aoutput 2000/06/04  3.10 build output lines
-) (/usr/share/texlive/texmf-dist/tex/latex/arabtex/abidir.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/arabtex/abidir.sty
 Package: abidir 2003/08/22  3.11 bidirectional linebreaking
-) (/usr/share/texlive/texmf-dist/tex/latex/arabtex/atrans.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/arabtex/atrans.sty
 Package: atrans 2003/06/14  3.11 generate the transliteration 
- (ArabTeX) ZDMG transliteration.) (/usr/share/texlive/texmf-dist/tex/latex/arabtex/alatex.sty
+ (ArabTeX) ZDMG transliteration.) (c:/texlive/2025/texmf-dist/tex/latex/arabtex/alatex.sty
 Package: alatex 2003/05/04  3.11 ArabTeX extensions for LaTeX 
- (/usr/share/texlive/texmf-dist/tex/latex/arabtex/afoot.sty
+ (c:/texlive/2025/texmf-dist/tex/latex/arabtex/afoot.sty
 Package: afoot 2003/05/12  3.11 ArabTeX footnotes
-)) (/usr/share/texlive/texmf-dist/tex/latex/arabtex/abjad.sty
+)) (c:/texlive/2025/texmf-dist/tex/latex/arabtex/abjad.sty
 Package: abjad 2003/04/26  3.11 abjad numerals 
-) (/usr/share/texlive/texmf-dist/tex/latex/arabtex/apatch.sty (/usr/share/texlive/texmf-dist/tex/latex/arabtex/alists.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/arabtex/apatch.sty (c:/texlive/2025/texmf-dist/tex/latex/arabtex/alists.sty
 Package: alists 2003/04/26  3.11 inverted list macros
-) (/usr/share/texlive/texmf-dist/tex/latex/arabtex/asect.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/arabtex/asect.sty
 Package: asect 2003/04/26  3.11 section macros for Arabic
-) (/usr/share/texlive/texmf-dist/tex/latex/arabtex/atabg.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/arabtex/atabg.sty
 Package: atabg 1997/01/21  3.05 LaTeX tabbing macros for Arabic
-) (/usr/share/texlive/texmf-dist/tex/latex/arabtex/alocal.sty (ArabTeX) 3.11 local stub, 26.02.2006)
+) (c:/texlive/2025/texmf-dist/tex/latex/arabtex/alocal.sty (ArabTeX) 3.11 local stub, 26.02.2006)
 Package: apatch 2006/07/02  3.11s last minute patches 
 )
 Arabic processor `ArabTeX' [20060702 patch level 3.11s (02.07.2006)]
-(ArabTeX) ... now be patient ... ) (/usr/share/texlive/texmf-dist/tex/latex/arabtex/utf8.sty (/usr/share/texlive/texmf-dist/tex/latex/arabtex/utfcode.sty
+(ArabTeX) ... now be patient ... ) (c:/texlive/2025/texmf-dist/tex/latex/arabtex/utf8.sty (c:/texlive/2025/texmf-dist/tex/latex/arabtex/utfcode.sty
 Package: utfcode 2002/03/07  3.10a Arabic+Hebrew segment of UTF-8
-\u@lb=\count291
-\u@lq=\count292
+\u@lb=\count315
+\u@lq=\count316
 )
 Package: utf8 2000/06/13  3.10 UTF-8 input encoding 
- (ArabTeX) scanner for code UTF-8 installed.) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
-Package: enumitem 2019/06/20 v3.9 Customized lists
-\enitkv@toks@=\toks36
-\labelindent=\skip51
-\enit@outerparindent=\dimen161
-\enit@toks=\toks37
-\enit@inbox=\box65
-\enit@count@id=\count293
-\enitdp@description=\count294
-) (ArabTeX) input encoding set to UTF-8 conventions (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+ (ArabTeX) scanner for code UTF-8 installed.) (c:/texlive/2025/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\enitkv@toks@=\toks37
+\labelindent=\skip53
+\enit@outerparindent=\dimen171
+\enit@toks=\toks38
+\enit@inbox=\box68
+\enit@count@id=\count317
+\enitdp@description=\count318
+) (ArabTeX) input encoding set to UTF-8 conventions (c:/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks38
-) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+ (c:/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks39
+) (c:/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
+ (c:/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
-\Gm@cnth=\count295
-\Gm@cntv=\count296
-\c@Gm@tempcnt=\count297
-\Gm@bindingoffset=\dimen162
-\Gm@wd@mp=\dimen163
-\Gm@odd@mp=\dimen164
-\Gm@even@mp=\dimen165
-\Gm@layoutwidth=\dimen166
-\Gm@layoutheight=\dimen167
-\Gm@layouthoffset=\dimen168
-\Gm@layoutvoffset=\dimen169
-\Gm@dimlist=\toks39
-) (/usr/share/texmf/tex/latex/tex-gyre/tgbonum.sty
+\Gm@cnth=\count319
+\Gm@cntv=\count320
+\c@Gm@tempcnt=\count321
+\Gm@bindingoffset=\dimen172
+\Gm@wd@mp=\dimen173
+\Gm@odd@mp=\dimen174
+\Gm@even@mp=\dimen175
+\Gm@layoutwidth=\dimen176
+\Gm@layoutheight=\dimen177
+\Gm@layouthoffset=\dimen178
+\Gm@layoutvoffset=\dimen179
+\Gm@dimlist=\toks40
+) (c:/texlive/2025/texmf-dist/tex/latex/tex-gyre/tgbonum.sty
 Package: tgbonum 2009/09/27 v1.2 TeX Gyre Bonum as default roman family
- (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
- (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-))) (/usr/share/texlive/texmf-dist/tex/latex/baskervald/baskervald.sty
-Package: baskervald 2010/07/13 v1.0 baskervald
- (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
- (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks40
-\XKV@tempa@toks=\toks41
-)
-\XKV@depth=\count298
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for T1+qbk on input line 112.
- (/usr/share/texmf/tex/latex/tex-gyre/t1qbk.fd
+ (c:/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (c:/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (c:/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))) (c:/texlive/2025/texmf-dist/tex/latex/baskervaldx/Baskervaldx.sty
+
+LaTeX Warning: You have requested package `baskervaldx',
+               but the package provides `Baskervaldx'.
+
+Package: Baskervaldx 2020/11/07 v1.075
+`Baskervaldx' v1.075, 2020/11/07 Style file for Baskervaldx, an `expertized' update of Baskervald (msharpe) (c:/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+ (c:/texlive/2025/texmf-dist/tex/latex/ly1/ly1enc.def
+File: ly1enc.def 2022/06/11 v0.8 TeX 'n ANSI encoding (DPC/KB)
+Now handling font encoding LY1 ...
+... processing UTF-8 mapping file for font encoding LY1
+ (c:/texlive/2025/texmf-dist/tex/latex/base/ly1enc.dfu
+File: ly1enc.dfu 2022/06/07 v1.3c UTF-8 support
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+FB00 (decimal 64256)
+   defining Unicode char U+FB01 (decimal 64257)
+   defining Unicode char U+FB02 (decimal 64258)
+   defining Unicode char U+FB03 (decimal 64259)
+   defining Unicode char U+FB04 (decimal 64260)
+   defining Unicode char U+FB05 (decimal 64261)
+   defining Unicode char U+FB06 (decimal 64262)
+))
+LaTeX Font Info:    Trying to load font information for T1+qbk on input line 116.
+ (c:/texlive/2025/texmf-dist/tex/latex/tex-gyre/t1qbk.fd
 File: t1qbk.fd 2009/09/25 v1.2 font definition file for T1/qbk
-)) (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
-Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-) (/usr/share/texlive/texmf-dist/tex/latex/nfssext-cfr/nfssext-cfr.sty (/usr/share/texlive/texmf-dist/tex/latex/svn-prov/svn-prov.sty
-Package: svn-prov 2010/04/24 v3.1862 Package Date/Version from SVN Keywords
+)) (c:/texlive/2025/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+) (c:/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count322
+) (c:/texlive/2025/texmf-dist/tex/latex/carlisle/scalefnt.sty) (c:/texlive/2025/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2025-05-24 v2.0.1 Font selection axes (deprecated)
+ (c:/texlive/2025/texmf-dist/tex/latex/figureversions/figureversions.sty
+Package: figureversions 2025-04-29 v1.0.1 Figure versions
+))
+LaTeX Info: Redefining \swshape on input line 28.
+
+
+Package fontaxes Warning: Axis `shape` not supported for command
+(fontaxes)                \fa@naming@exception on line 28
+
+
+Package fontaxes Warning: Axis `shape` not supported for command
+(fontaxes)                \fa@naming@exception on line 28
+
+(c:/texlive/2025/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (c:/texlive/2025/texmf-dist/tex/generic/xkeyval/xkeyval.tex (c:/texlive/2025/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks41
+\XKV@tempa@toks=\toks42
 )
-Package: nfssext-cfr 2017/03/28 (SVN Rev: 6140){} specially mangled by cfr; based on 2003/03/14 v1.2 Experimental NFSS Extensions
- (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+\XKV@depth=\count323
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))) (c:/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box69
+\beforetitleunit=\skip54
+\aftertitleunit=\skip55
+\ttl@plus=\dimen180
+\ttl@minus=\dimen181
+\ttl@toksa=\toks43
+\titlewidth=\dimen182
+\titlewidthlast=\dimen183
+\titlewidthfirst=\dimen184
+) (c:/texlive/2025/texmf-dist/tex/latex/titlesec/titleps.sty
+Package: titleps 2025/01/04 v2.17 Page styles
+) (c:/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (c:/texlive/2025/texmf-dist/tex/latex/lettrine/lettrine.sty
+File: lettrine.sty 2025-01-30 v2.80 (Daniel Flipo)
+ (c:/texlive/2025/texmf-dist/tex/latex/l3packages/xfp/xfp.sty (c:/texlive/2025/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-05-26 L3 programming layer (loader) 
+ (c:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-04-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count324
+))
+Package: xfp 2024-08-16 L3 Floating point unit
 )
-\c@taken=\count299
-LaTeX Info: Redefining \itshape on input line 515.
-LaTeX Info: Redefining \scshape on input line 523.
-LaTeX Info: Redefining \upshape on input line 537.
-LaTeX Info: Redefining \swshape on input line 544.
-LaTeX Info: Redefining \textsw on input line 553.
-)) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2021/07/05 v2.14 Sectioning titles
-\ttl@box=\box66
-\beforetitleunit=\skip52
-\aftertitleunit=\skip53
-\ttl@plus=\dimen170
-\ttl@minus=\dimen171
-\ttl@toksa=\toks42
-\titlewidth=\dimen172
-\titlewidthlast=\dimen173
-\titlewidthfirst=\dimen174
-) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titleps.sty
-Package: titleps 2021/07/05 v2.14 Page styles
-) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
-Package: setspace 2011/12/19 v6.7a set line spacing
-) (/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.sty
-File: lettrine.sty 2020-03-14 v2.23 (Daniel Flipo)
- (/usr/share/texlive/texmf-dist/tex/generic/minifp/minifp.sty
-Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack-based programing language.
-\MFP@loopctr=\count300
-)
-\c@DefaultLines=\count301
-\c@DefaultDepth=\count302
-\DefaultFindent=\dimen175
-\DefaultNindent=\dimen176
-\DefaultSlope=\dimen177
-\DiscardVskip=\dimen178
-\L@lbox=\box67
-\L@tbox=\box68
-\c@L@lines=\count303
-\c@L@depth=\count304
-\L@Pindent=\dimen179
-\L@Findent=\dimen180
-\L@Nindent=\dimen181
-\L@lraise=\dimen182
-\L@first=\dimen183
-\L@next=\dimen184
-\L@slope=\dimen185
-\L@height=\dimen186
-\L@novskip=\dimen187
-\L@target@ht=\dimen188
-\L@target@dp=\dimen189
-\L@target@tht=\dimen190
-\LettrineWidth=\dimen191
-\LettrineHeight=\dimen192
-\LettrineDepth=\dimen193
-\Llist@everypar=\toks43
+\c@DefaultLines=\count325
+\c@DefaultDepth=\count326
+\DefaultFindent=\dimen185
+\DefaultNindent=\dimen186
+\DefaultSlope=\dimen187
+\DiscardVskip=\dimen188
+\L@lettrine=\box70
+\L@lbox=\box71
+\L@tbox=\box72
+\c@L@lines=\count327
+\c@L@depth=\count328
+\L@Pindent=\dimen189
+\L@Findent=\dimen190
+\L@Nindent=\dimen191
+\L@lraise=\dimen192
+\L@first=\dimen193
+\L@next=\dimen194
+\L@slope=\dimen195
+\L@height=\dimen196
+\L@novskip=\dimen197
+\L@target@ht=\dimen198
+\L@target@dp=\dimen199
+\L@target@tht=\dimen256
+\LettrineWidth=\dimen257
+\LettrineHeight=\dimen258
+\LettrineDepth=\dimen259
+\L@finalht=\dimen260
+\L@finaldp=\dimen261
 
 Loading lettrine.cfg
-(/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.cfg))
-LaTeX Font Info:    Trying to load font information for T1+ybv on input line 49.
- (/usr/share/texlive/texmf-dist/tex/latex/baskervald/t1ybv.fd
-File: t1ybv.fd 2010/07/13 Fontinst v1.933 font definitions for T1/ybv.
-) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count305
-\l__pdf_internal_box=\box69
-) (./Vission_and_Success.aux)
+(c:/texlive/2025/texmf-dist/tex/latex/lettrine/lettrine.cfg)
+\Lettrine@tweaks=\toks44
+\Llist@everypar=\toks45
+)
+LaTeX Font Info:    Trying to load font information for T1+Baskervaldx-TLF on input line 49.
+ (c:/texlive/2025/texmf-dist/tex/latex/baskervaldx/T1Baskervaldx-TLF.fd
+File: T1Baskervaldx-TLF.fd 2014/03/31 (autoinst) Font definitions for T1/Baskervaldx-TLF.
+)
+LaTeX Font Info:    Font shape `T1/Baskervaldx-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 49.
+ (./Vission_and_Success.aux)
 \openout1 = `Vission_and_Success.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
@@ -227,6 +377,12 @@ LaTeX Font Info:    ... okay on input line 49.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
 LaTeX Font Info:    ... okay on input line 49.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 49.
+LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 49.
+ (c:/texlive/2025/texmf-dist/tex/latex/ly1/ly1ptm.fd
+File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
+)
 LaTeX Font Info:    ... okay on input line 49.
 
 *geometry* driver: auto-detecting
@@ -263,29 +419,55 @@ LaTeX Font Info:    ... okay on input line 49.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/share/texlive/texmf-dist/tex/latex/arabtex/apatch.sty
-\a@lines=\count306
-\a@Lwidth=\dimen194
-\a@displaywidth=\dimen195
- (/usr/share/texlive/texmf-dist/tex/latex/arabtex/alocal.sty (ArabTeX) 3.11 local stub, 26.02.2006) (ArabTeX) version 3.11s (02.07.2006): second phase of patching) [1
+\c@mv@tabular=\count329
+\c@mv@boldtabular=\count330
+(c:/texlive/2025/texmf-dist/tex/latex/arabtex/apatch.sty
+\a@lines=\count331
+\a@Lwidth=\dimen262
+\a@displaywidth=\dimen263
+ (c:/texlive/2025/texmf-dist/tex/latex/arabtex/alocal.sty (ArabTeX) 3.11 local stub, 26.02.2006) (ArabTeX) version 3.11s (02.07.2006): second phase of patching)
+LaTeX Font Info:    Font shape `T1/Baskervaldx-TLF/m/n' will be
+(Font)              scaled to size 24.88pt on input line 53.
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Font shape `T1/ybv/m/sl' in size <12> not available
-(Font)              Font shape `T1/ybv/m/it' tried instead on input line 60.
- [2
+[1
 
-] (./Vission_and_Success.toc)
+
+{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/baskervaldx/zbv_2zeho7.enc}]
+
+LaTeX Font Info:    Font shape `T1/Baskervaldx-TLF/m/sl' in size <12> not available
+(Font)              Font shape `T1/Baskervaldx-TLF/m/it' tried instead on input line 60.
+LaTeX Font Info:    Font shape `T1/Baskervaldx-TLF/m/it' will be
+(Font)              scaled to size 12.0pt on input line 60.
+[2
+
+]
+LaTeX Font Info:    Font shape `T1/Baskervaldx-TLF/b/n' will be
+(Font)              scaled to size 24.88pt on input line 60.
+ (./Vission_and_Success.toc
+LaTeX Font Info:    Font shape `T1/Baskervaldx-TLF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 1.
+LaTeX Font Info:    Font shape `T1/Baskervaldx-TLF/b/it' will be
+(Font)              scaled to size 12.0pt on input line 6.
+)
 \tf@toc=\write5
 \openout5 = `Vission_and_Success.toc'.
 
- (./Chapters/Introduction.tex [3] [4
+ (./Chapters/Introduction.tex
+
+[3{c:/texlive/2025/texmf-dist/fonts/enc/dvips/baskervaldx/zbv_ahc6ab.enc}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/baskervaldx/zbv_m4qttc.enc}]
+
+LaTeX Font Info:    Font shape `T1/Baskervaldx-TLF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 1.
+LaTeX Font Info:    Font shape `T1/Baskervaldx-TLF/m/it' will be
+(Font)              scaled to size 10.95pt on input line 1.
+[4
 
 ]
 Chapter 1.
 LaTeX Font Info:    Trying to load font information for T1+cmvtt on input line 16.
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmvtt.fd
-File: t1cmvtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+(c:/texlive/2025/texmf-dist/tex/latex/base/t1cmvtt.fd
+File: t1cmvtt.fd 2024/11/19 v2.5n Standard LaTeX font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 16.
@@ -293,52 +475,99 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 16.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 16.
+LaTeX Font Info:    Font shape `T1/Baskervaldx-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 16.
+LaTeX Font Info:    Font shape `T1/Baskervaldx-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 16.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 16.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 16.
+LaTeX Font Info:    Font shape `T1/Baskervaldx-TLF/m/n' will be
+(Font)              scaled to size 7.0pt on input line 16.
 LaTeX Font Info:    Trying to load font information for U+xnsh on input line 16.
- (/usr/share/texlive/texmf-dist/tex/latex/arabtex/Uxnsh.fd
+ (c:/texlive/2025/texmf-dist/tex/latex/arabtex/Uxnsh.fd
 File: uxnsh.fd  1999/10/19 v3.10 ArabTeX Naskh extd. font definitions
 )
 LaTeX Font Info:    Font shape `U/xnsh/m/n' will be
 (Font)              scaled to size 14.40002pt on input line 16.
- [5]) [6] (./Chapters/prophetsVision.tex
+
+
+[5{c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}])
+
+[6] (./Chapters/prophetsVision.tex
 Chapter 2.
+LaTeX Font Info:    Font shape `T1/Baskervaldx-TLF/m/it' will be
+(Font)              scaled to size 10.0pt on input line 44.
+
+
 [7
 
 
-] [8] [9] [10]
-Underfull \vbox (badness 3635) has occurred while \output is active []
+]
 
- [11] [12] [13]
+[8]
+LaTeX Font Info:    Font shape `T1/Baskervaldx-TLF/b/n' will be
+(Font)              scaled to size 10.0pt on input line 44.
+LaTeX Font Info:    Font shape `T1/Baskervaldx-TLF/b/it' will be
+(Font)              scaled to size 10.0pt on input line 44.
+
+
+[9]
+
+[10]
+Underfull \vbox (badness 4505) has occurred while \output is active []
+
+
+
+[11]
+
+[12]
+
+[13]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [14]
+
+
+[14]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15]) [16] (./Chapters/islamAndBeduins.tex
+
+
+[15])
+
+[16] (./Chapters/islamAndBeduins.tex
 Chapter 3.
 
 Underfull \vbox (badness 4556) has occurred while \output is active []
 
- [17
+
+
+[17
 
 
 ]
-Overfull \hbox (3.68271pt too wide) in paragraph at lines 16--16
+Overfull \hbox (5.1067pt too wide) in paragraph at lines 16--16
 \T1/cmvtt/m/n/12 What is the pur-pose/mission of your life?^^Q `Umar Replied[],
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [18]) [19] [20] (./Chapters/riseOfIslam.tex
+
+
+[18])
+
+[19]
+
+[20] (./Chapters/riseOfIslam.tex
 Chapter 4.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [21
+
+
+[21
 
 
 ]
@@ -346,36 +575,78 @@ Underfull \hbox (badness 10000) in paragraph at lines 94--94
 
  []
 
+LaTeX Font Info:    Font shape `T1/Baskervaldx-TLF/m/n' will be
+(Font)              scaled to size 17.28pt on input line 94.
+LaTeX Font Info:    Font shape `T1/Baskervaldx-TLF/b/n' will be
+(Font)              scaled to size 17.28pt on input line 94.
 
 Overfull \hbox (1.95226pt too wide) in paragraph at lines 94--94
 \T1/cmvtt/m/n/12 Allaah rab-bul 'iz-zah in-ter-vened in their lives by a Prophet.
  []
 
+
+
 [22]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23]
-Overfull \hbox (9.47699pt too wide) in paragraph at lines 94--94
-|\T1/ybv/b/n/17.28 Allaah rab-bul 'iz-zah changed their hearts| 
+
+
+[23]
+Overfull \hbox (20.72618pt too wide) in paragraph at lines 94--94
+|\T1/Baskervaldx-TLF/b/n/17.28 Allaah rab-bul 'iz-zah changed their hearts| 
  []
+
+
 
 [24]
 LaTeX Font Info:    Font shape `U/xnsh/m/n' will be
 (Font)              scaled to size 17.28003pt on input line 94.
- [25]
+
+
+[25]
 Overfull \hbox (6.4681pt too wide) in paragraph at lines 94--94
 \T1/cmvtt/m/n/12 started, tor-ture started, as-sas-si-na-tion started. They (those
  []
 
-[26] [27] [28]
-Underfull \vbox (badness 2744) has occurred while \output is active []
 
- [29] [30] [31] [32] [33]
+
+[26]
+LaTeX Font Info:    Font shape `T1/Baskervaldx-TLF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 94.
+LaTeX Font Info:    Font shape `T1/Baskervaldx-TLF/b/n' will be
+(Font)              scaled to size 14.4pt on input line 94.
+
+
+[27]
+Overfull \hbox (4.29109pt too wide) in paragraph at lines 95--96
+\T1/Baskervaldx-TLF/b/n/12 (Remember) when you were ask-ing help from your Lord,
+ []
+
+
+
+[28]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [34] [35]
-Overfull \hbox (9.54614pt too wide) in paragraph at lines 174--174
-|\T1/ybv/b/n/17.28 Allaah rab-bul 'iz-zah changed their minds| 
+
+
+[29]
+
+[30]
+
+[31]
+
+[32]
+
+[33]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[34]
+
+[35]
+Overfull \hbox (20.79533pt too wide) in paragraph at lines 174--174
+|\T1/Baskervaldx-TLF/b/n/17.28 Allaah rab-bul 'iz-zah changed their minds| 
  []
 
 
@@ -383,8 +654,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 174--174
 
  []
 
-) [36] (./Chapters/ultimateSuccess.tex
+)
+
+[36] (./Chapters/ultimateSuccess.tex
 Chapter 5.
+
+
 [37
 
 
@@ -393,13 +668,29 @@ Overfull \hbox (3.21736pt too wide) in paragraph at lines 30--30
 []\T1/cmvtt/m/n/12 The psy-chol-o-gists say that--- the most pro-duc-tive emo-
  []
 
-[38] [39] [40]
+
+
+[38]
+
+[39]
+
+[40]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [41] [42]) [43] [44
+
+
+[41]
+
+[42])
+
+[43]
+
+[44
 
 ] (./Chapters/theSahabaKnew.tex
 Chapter 6.
+LaTeX Font Info:    Font shape `T1/Baskervaldx-TLF/b/it' will be
+(Font)              scaled to size 24.88pt on input line 1.
 
 LaTeX Font Warning: Font shape `T1/cmvtt/b/n' undefined
 (Font)              using `T1/cmvtt/m/n' instead on input line 25.
@@ -407,29 +698,39 @@ LaTeX Font Warning: Font shape `T1/cmvtt/b/n' undefined
 
 Underfull \vbox (badness 4556) has occurred while \output is active []
 
- [45
+
+
+[45
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [46]
+
+
+[46]
 Underfull \vbox (badness 3735) has occurred while \output is active []
 
- [47] [48] [49] [50]) [51] [52
+
+
+[47]
+
+[48]
+
+[49]
+
+[50])
+
+[51]
+
+[52
 
 ] (./Chapters/helpOfAllah.tex
 Chapter 7.
+
+
 [53
 
 ]
-Overfull \hbox (2.16724pt too wide) in paragraph at lines 27--52
-\T1/ybv/m/n/12 It was nar-rated on the au-thor-ity of Umar (may Al-lah be pleased
- []
-
-
-Overfull \hbox (1.27898pt too wide) in paragraph at lines 27--52
-\T1/ybv/b/n/12 peared be-fore us a man dressed in ex-tremely white clothes
- []
 
 [54]
 Overfull \hbox (4.89192pt too wide) in paragraph at lines 52--52
@@ -438,14 +739,47 @@ Overfull \hbox (4.89192pt too wide) in paragraph at lines 52--52
 
 
 Overfull \hbox (1.17691pt too wide) in paragraph at lines 52--52
-\T1/cmvtt/m/it/12 Tawh[]id \T1/cmvtt/m/n/12 is of three ---\T1/cmvtt/m/it/12 Ar-rububiyyah, Al-uluhiyyah \T1/cmvtt/m/n/12 and
+\T1/cmvtt/m/it/12 Tawh	^^Yd \T1/cmvtt/m/n/12 is of three ---\T1/cmvtt/m/it/12 Ar-rububiyyah, Al-uluhiyyah \T1/cmvtt/m/n/12 and
  []
 
-[55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65]) [66] (./Vission_and_Success.aux)
+
+
+[55]
+
+[56]
+
+[57]
+
+[58]
+
+[59]
+
+[60]
+
+[61]
+
+[62]
+
+[63]
+
+[64]
+
+[65]
+
+[66]
+
+[67])
+
+[68] (./Vission_and_Success.aux)
+ ***********
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-05-26>
+ ***********
+
 
  *File List*
-    book.cls    2021/10/04 v1.4n Standard LaTeX document class
-    bk12.clo    2021/10/04 v1.4n Standard LaTeX file (size option)
+    book.cls    2025/01/22 v1.4n Standard LaTeX document class
+    bk12.clo    2025/01/22 v1.4n Standard LaTeX file (size option)
  arabtex.sty    2003/08/22  3.11 ArabTeX main module
  arabaux.sty    2003/05/21  3.11 auxiliary macros for ArabTeX
     acmd.sty    2003/08/20  3.11 Arabic command processing 
@@ -473,36 +807,41 @@ arabchrs.sty    1998/07/11  3.07 letter token definitions
    atabg.sty    1997/01/21  3.05 LaTeX tabbing macros for Arabic
     utf8.sty    2000/06/13  3.10 UTF-8 input encoding 
  utfcode.sty    2002/03/07  3.10a Arabic+Hebrew segment of UTF-8
-enumitem.sty    2019/06/20 v3.9 Customized lists
+enumitem.sty    2025/02/06 v3.11 Customized lists
 geometry.sty    2020/01/02 v5.9 Page Geometry
-  keyval.sty    2014/10/28 v1.15 key=value parser (DPC)
+  keyval.sty    2022/05/29 v1.15 key=value parser (DPC)
   ifvtex.sty    2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-   iftex.sty    2020/03/06 v1.0d TeX engine tests
+   iftex.sty    2024/12/12 v1.0g TeX engine tests
  tgbonum.sty    2009/09/27 v1.2 TeX Gyre Bonum as default roman family
-kvoptions.sty    2020-10-07 v3.14 Key value format for package options (HO)
- ltxcmds.sty    2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-kvsetkeys.sty    2019/12/15 v1.18 Key value parser (HO)
-baskervald.sty    2010/07/13 v1.0 baskervald
- xkeyval.sty    2020/11/20 v2.8 package option processing (HA)
- xkeyval.tex    2014/12/03 v2.7a key=value parser (HA)
- fontenc.sty
+kvoptions.sty    2022-06-15 v3.15 Key value format for package options (HO)
+ ltxcmds.sty    2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+kvsetkeys.sty    2022-10-05 v1.19 Key value parser (HO)
+baskervaldx.sty    2020/11/07 v1.075
+ fontenc.sty    2024/12/21 v2.1c Standard LaTeX package
+  ly1enc.def    2022/06/11 v0.8 TeX 'n ANSI encoding (DPC/KB)
+  ly1enc.dfu    2022/06/07 v1.3c UTF-8 support
    t1qbk.fd    2009/09/25 v1.2 font definition file for T1/qbk
-textcomp.sty    2020/02/02 v2.0n Standard LaTeX package
-nfssext-cfr.sty    2017/03/28 (SVN Rev: 6140){} specially mangled by cfr; based on 2003/03/14 v1.2 Experimental NFSS Extensions
-svn-prov.sty    2010/04/24 v3.1862 Package Date/Version from SVN Keywords
-  ifthen.sty    2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
-titlesec.sty    2021/07/05 v2.14 Sectioning titles
- titleps.sty    2021/07/05 v2.14 Page styles
-setspace.sty    2011/12/19 v6.7a set line spacing
-lettrine.sty    2020-03-14 v2.23 (Daniel Flipo)
-  minifp.sty    2013/12/30 v0.96. Macros for real number operations and a stack-based programing language.
+textcomp.sty    2024/04/24 v2.1b Standard LaTeX package
+etoolbox.sty    2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+scalefnt.sty    
+fontaxes.sty    2025-05-24 v2.0.1 Font selection axes (deprecated)
+figureversions.sty    2025-04-29 v1.0.1 Figure versions
+ xkeyval.sty    2022/06/16 v2.9 package option processing (HA)
+ xkeyval.tex    2014/12/03 v2.7a key=value parser (HA)
+titlesec.sty    2025/01/04 v2.17 Sectioning titles
+ titleps.sty    2025/01/04 v2.17 Page styles
+setspace.sty    2022/12/04 v6.7b set line spacing
+lettrine.sty    2025-01-30 v2.80 (Daniel Flipo)
+     xfp.sty    2024-08-16 L3 Floating point unit
+   expl3.sty    2025-05-26 L3 programming layer (loader) 
+l3backend-pdftex.def    2025-04-14 L3 backend support: PDF output (pdfTeX)
 lettrine.cfg
-   t1ybv.fd    2010/07/13 Fontinst v1.933 font definitions for T1/ybv.
-l3backend-pdftex.def    2022-01-12 L3 backend support: PDF output (pdfTeX)
+t1baskervaldx-tlf.fd
+  ly1ptm.fd    2001/02/01 font definitions for LY1/ptm using Berry names.
   apatch.sty    2006/07/02  3.11s last minute patches 
 Chapters/Introduction.tex
- t1cmvtt.fd    2019/12/16 v2.5j Standard LaTeX font definitions
-   Uxnsh.fd
+ t1cmvtt.fd    2024/11/19 v2.5n Standard LaTeX font definitions
+   uxnsh.fd     1999/10/19 v3.10 ArabTeX Naskh extd. font definitions
 Chapters/prophetsVision.tex
 Chapters/islamAndBeduins.tex
 Chapters/riseOfIslam.tex
@@ -520,18 +859,18 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 ### semi simple group (level 1) entered at line 49 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 6484 strings out of 478287
- 92730 string characters out of 5849289
- 445484 words of memory out of 5000000
- 24499 multiletter control sequences out of 15000+600000
- 586337 words of font info for 92 fonts, out of 8000000 for 9000
+ 6599 strings out of 467886
+ 97633 string characters out of 5438218
+ 555242 words of memory out of 5000000
+ 34966 multiletter control sequences out of 15000+600000
+ 684781 words of font info for 89 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,8n,62p,3597b,1137s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/baskervald/supp-ybv.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfvi1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfvt1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/arabtex/xnsh14.pfb></usr/share/texlive/texmf-dist/fonts/type1/arkandis/baskervald/ybvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/arkandis/baskervald/ybvbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/arkandis/baskervald/ybvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/arkandis/baskervald/ybvri8a.pfb>
-Output written on Vission_and_Success.pdf (66 pages, 294868 bytes).
+ 73i,8n,77p,3573b,1193s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2025/texmf-dist/fonts/type1/public/baskervaldx/Baskervaldx-Bol.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/baskervaldx/Baskervaldx-BolIta.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/baskervaldx/Baskervaldx-Ita.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/baskervaldx/Baskervaldx-Reg.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfvi1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfvt1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/arabtex/xnsh14.pfb>
+Output written on Vission_and_Success.pdf (68 pages, 290474 bytes).
 PDF statistics:
- 261 PDF objects out of 1000 (max. 8388607)
- 175 compressed objects within 2 object streams
+ 263 PDF objects out of 1000 (max. 8388607)
+ 177 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
