@@ -245,6 +245,9 @@ INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/baskervaldx/Baskervaldx-BolIta
 INPUT ./Chapters/helpOfAllah.tex
 INPUT ./Chapters/helpOfAllah.tex
 INPUT Chapters/helpOfAllah.tex
+INPUT ./Parts/aqidahOfAhlusSunnah.tex
+INPUT ./Parts/aqidahOfAhlusSunnah.tex
+INPUT Parts/aqidahOfAhlusSunnah.tex
 INPUT Vission_and_Success.aux
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/baskervaldx/Baskervaldx-Bol.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/baskervaldx/Baskervaldx-BolIta.pfb
