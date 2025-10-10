@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.6.13)  10 OCT 2025 21:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.6.13)  10 OCT 2025 23:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -791,9 +791,25 @@ Underfull \vbox (badness 1931) has occurred while \output is active []
 
 [76]
 
-[77])
+[77]
 
-[78] (./Vission_and_Success.aux)
+[78]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[79]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[80])
+
+[81]
+
+[82
+
+] (./Vission_and_Success.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-05-26>
@@ -891,10 +907,10 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  73i,8n,77p,3573b,1224s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/baskervaldx/Baskervaldx-Bol.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/baskervaldx/Baskervaldx-BolIta.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/baskervaldx/Baskervaldx-Ita.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/baskervaldx/Baskervaldx-Reg.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfvi1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfvt1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/arabtex/xnsh14.pfb>
-Output written on Vission_and_Success.pdf (78 pages, 315751 bytes).
+Output written on Vission_and_Success.pdf (82 pages, 321115 bytes).
 PDF statistics:
- 295 PDF objects out of 1000 (max. 8388607)
- 199 compressed objects within 2 object streams
+ 309 PDF objects out of 1000 (max. 8388607)
+ 208 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
